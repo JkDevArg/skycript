@@ -87,6 +87,12 @@ Protección contra fuerza bruta:
 
 ---
 
+## Demo 🎥
+
+[Ver video demo](video/example.mkv)
+
+---
+
 ## Contribuciones 🤝
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar SkyCrypt, sigue estos pasos:
