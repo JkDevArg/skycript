@@ -112,5 +112,7 @@ Abre un Pull Request.
 ## Contacto 📩
 
 Developer: Joaquin Centurión
+
 GitHub: [JkDevArg](https://github.com/JkDevArg)
+
 LinkedIn: [Joaquin Centurión](https://www.linkedin.com/in/joaquincenturion/)
