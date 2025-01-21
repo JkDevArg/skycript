@@ -89,7 +89,7 @@ Protección contra fuerza bruta:
 
 ## Demo 🎥
 
-[Ver video demo](video/example.mkv)
+[Ver video demo](https://youtu.be/XpkSnRKor5g)
 
 ---
 
@@ -112,5 +112,5 @@ Abre un Pull Request.
 ## Contacto 📩
 
 Developer: Joaquin Centurión
-GitHub: JkDevArg
-LinkedIn: joaquincenturion
+GitHub: [JkDevArg](https://github.com/JkDevArg)
+LinkedIn: [Joaquin Centurión](https://www.linkedin.com/in/joaquincenturion/)
